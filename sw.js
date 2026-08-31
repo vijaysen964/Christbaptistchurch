@@ -1,4 +1,4 @@
-const CACHE_NAME = "christ-baptist-church-v9";
+const CACHE_NAME = "christ-baptist-church-v10";
 const ASSETS = ["./", "./index.html", "./manifest.json"];
 
 self.addEventListener("install", (event) => {
